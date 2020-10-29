@@ -9,5 +9,4 @@ name_hash.each do |key, value|
     puts key
   end
  end  
- key
 end
