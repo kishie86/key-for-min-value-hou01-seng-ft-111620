@@ -8,5 +8,6 @@ name_hash.each do |key, value|
   if value -= 1 
     puts key
   end
- end   
+ end  
+ key
 end
